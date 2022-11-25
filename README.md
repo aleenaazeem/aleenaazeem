@@ -7,12 +7,12 @@
 <br/>
 
  <a href="https://github.com/Mahnoor-Rana">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleena's streak"width = "90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-Rana&theme=black-ice&=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleena's streak"width = "90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleenaazeem&theme=black-ice&=true&stroke=0000&background=060A0CD0"/>
     </a>
     </p>
 <p>
 
-<a href="https://github.com/Mahnoor-Rana/github-readme-activity-graph"><img width="90%" alt="Aleena's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mahnoor-Rana&&theme=xcode" /></a>
+<a href="https://github.com/aleenaazeem/github-readme-activity-graph"><img width="90%" alt="Aleena's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aleenaazeem&&theme=xcode" /></a>
 </p>
 
 <br/>
