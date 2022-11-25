@@ -12,7 +12,7 @@
     </p>
 <p>
 
-<a href="https://github.com/Mahnoor-Rana/github-readme-activity-graph"><img width="90%" alt="Mahnoor Rana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mahnoor-Rana&&theme=xcode" /></a>
+<a href="https://github.com/Mahnoor-Rana/github-readme-activity-graph"><img width="90%" alt="Aleena's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mahnoor-Rana&&theme=xcode" /></a>
 </p>
 
 <br/>
