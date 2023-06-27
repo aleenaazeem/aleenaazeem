@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, IOT, artificial intelligence, VR, AR and VFX
 - 🌱 I’m currently a computer science student, learning new thing everyday. 
 - 💞️ I’m looking to collaborate on any related projects.
-- 📫 How to reach me aleena.azeem04@gmail.com
+- 📫 How to reach me aleena.azeem04@gmail.com hmu ;)
 <br/>
 <br/>
 
