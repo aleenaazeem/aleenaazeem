@@ -2,7 +2,7 @@
 - 👀 I’m interested in MLOps. 
 - 🌱 I’m currently a graduate student in computer science, learning new things everyday. 
 - 💞️ I’m looking to collaborate on any related projects.
-- 📫 How to reach me aleena.azeem04@gmail.com hmu ;)
+- 📫 How to reach me aleena.azeem04@gmail.com ;)
 <br/>
 <br/>
 
@@ -12,7 +12,7 @@
     </p>
 <p>
 
-<a href="https://github.com/aleenaazeem/github-readme-activity-graph"><img width="90%" alt="Aleena's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aleenaazeem&&theme=xcode" /></a>
+
 </p>
 
 <br/>
