@@ -1,5 +1,5 @@
 - 👀 I’m interested in MLOps. 
-- 🌱 I’m currently a graduate student in computer science, learning new things everyday. 
+- 🌱 I’m currently a graduate student in computer science.
 - 💞️ I’m looking to collaborate on any related projects.
 - 📫 How to reach me aleena.azeem04@gmail.com 
 <br/>
