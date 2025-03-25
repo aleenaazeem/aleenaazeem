@@ -1,6 +1,6 @@
 
 - I’m looking to collaborate on any related projects.
-- How to reach mee aleena.azeem04@gmail.com 
+- How to reach me aleena.azeem04@gmail.com 
 <br/>
 <br/>
 
