@@ -1,5 +1,4 @@
 
-- I’m looking to collaborate on any related projects.
 <br/>
 <br/>
 
