@@ -1,4 +1,4 @@
-
+Eager to work on cool projects related to robotics, AI, Webdev and Finance
 <br/>
 <br/>
 
