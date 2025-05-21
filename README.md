@@ -44,14 +44,13 @@ Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** a
 <br/>
 <br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Aleena’s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleenaazeem&bg_color=1f1f1f&color=00e7ff&line=00ffc3&point=ffffff&area=true&hide_border=true" />
 </a>
-[![Globe Visitors](https://api.visitorbadge.io/api/visitors?path=aleenaazeem&label=Visitors&labelColor=%23f47373&countColor=%232ccce4&style=flat-square)](https://github.com/aleenaazeem)
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300px" />
+
+<img src="https://github.com/aleenaazeem/aleenaazeem/blob/output/github-contribution-grid-snake.svg" />
 
 <!---
 aleenaazeem/aleenaazeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
