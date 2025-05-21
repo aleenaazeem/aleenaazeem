@@ -48,6 +48,11 @@ Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** a
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Aleena’s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleenaazeem&bg_color=1f1f1f&color=00e7ff&line=00ffc3&point=ffffff&area=true&hide_border=true" />
+</a>
+[![Globe Visitors](https://api.visitorbadge.io/api/visitors?path=aleenaazeem&label=Visitors&labelColor=%23f47373&countColor=%232ccce4&style=flat-square)](https://github.com/aleenaazeem)
+
 <!---
 aleenaazeem/aleenaazeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
