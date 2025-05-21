@@ -18,8 +18,7 @@
 </div>
 
 <br />
-<img src="https://nirzak-streak-stats.vercel.app/?user=aleenaazeem&theme=merko&hide_border=false" />
-<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenaazeem&theme=merko&hide_border=false&layout=compact" />
 
 </div>
@@ -36,10 +35,6 @@
 <br/>
 <br/>
 
- <a href="https://github.com/aleenaazeem">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleena's streak"width = "90%" src="https://streak-stats.demolab.com/?user=aleenaazeem&theme=dark"/>
-    </a>
-    </p>
 
 <br/>
 <!---
