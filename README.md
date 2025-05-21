@@ -51,9 +51,10 @@ Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** a
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
   <img src="https://aleenaazeem.github.io/snk/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
+
 
 
 <!---
