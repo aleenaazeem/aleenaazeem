@@ -1,5 +1,14 @@
 # 💫 About Me:
-# 👋 Hi, I'm Aleena Ali Azeem<br><br>🎓 Master’s Student in Applied Computing @ University of Windsor  <br>💡 Passionate about Data Analytics, Dashboards & AI-Driven Decision Making  <br>🌎 International learner | 🇵🇰 → 🇨🇦 | Open to Remote Internships & Entry-Level Roles  
+
+Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** at the **University of Windsor**, deeply curious about how data drives real-world decisions.
+
+📊 I’m passionate about **data analytics**, storytelling with dashboards, and uncovering insights from messy datasets.  
+🚀 I love learning, experimenting, and building projects that make things simpler or smarter.  
+🌱 Currently growing my skills in Python, SQL, Power BI, and cloud tools to become a well-rounded data professional.  
+💬 Always open to learning from others, collaborating, and exploring new ideas.
+
+> _“Inquisitive minds build insightful data.”_
+
 
 
 ## 🌐 Socials:
