@@ -12,7 +12,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aleenaazeem&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
 <br />
 <img src="https://nirzak-streak-stats.vercel.app/?user=aleenaazeem&theme=merko&hide_border=false" />
 <br />
@@ -20,11 +19,14 @@
 
 </div>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aleenaazeem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aleenaazeem&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
+</div>
+
 <br/>
 <br/>
 <br/>
