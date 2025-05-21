@@ -11,6 +11,11 @@
 # 📊 GitHub Stats
 
 <div align="center">
+<div align="center">
+  <a href="https://github.com/aleenaazeem">
+    <img alt="Aleena's GitHub streak" width="90%" src="https://streak-stats.demolab.com/?user=aleenaazeem&theme=dark" />
+  </a>
+</div>
 
 <br />
 <img src="https://nirzak-streak-stats.vercel.app/?user=aleenaazeem&theme=merko&hide_border=false" />
