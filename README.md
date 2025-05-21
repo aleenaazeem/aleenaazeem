@@ -49,12 +49,12 @@ Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** a
   <img alt="Aleena’s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleenaazeem&bg_color=1f1f1f&color=00e7ff&line=00ffc3&point=ffffff&area=true&hide_border=true" />
 </a>
 
-
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/aleenaazeem/aleenaazeem/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://aleenaazeem.github.io/snk/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
+
 
 <!---
 aleenaazeem/aleenaazeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
