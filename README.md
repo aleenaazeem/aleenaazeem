@@ -7,6 +7,7 @@ Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** a
 🌱 Currently growing my skills in Python, SQL, Power BI, and cloud tools to become a well-rounded data professional.  
 💬 Always open to learning from others, collaborating, and exploring new ideas..
 </br>
+</br>
 You can check my CV at: [[My CV]](https://docs.google.com/document/d/14nm20lZghlWIS3TINERuweXoCRn8zk1aP9JDT8pr35U/edit?usp=sharing)
 
 
