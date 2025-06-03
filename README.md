@@ -8,7 +8,7 @@ Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** a
 💬 Always open to learning from others, collaborating, and exploring new ideas.
 </br>
 You can check my CV at: [[My CV]](https://docs.google.com/document/d/14nm20lZghlWIS3TINERuweXoCRn8zk1aP9JDT8pr35U/edit?usp=sharing)
-.
+
 
 
 
