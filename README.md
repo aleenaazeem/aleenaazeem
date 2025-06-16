@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** at the **University of Windsor**, deeply curious about how data drives real-world decisions.
+Hi! I'm **Aleena Ali Azeem** — a Master’s student in **Applied Computing** at the **University of Windsor**, deeply curious about how data drives real-world decisions and embedded systems.
 
 📊 I’m passionate about **data analytics**, storytelling with dashboards, and uncovering insights from messy datasets.  
 🚀 I love learning, experimenting, and building projects that make things simpler or smarter.  
