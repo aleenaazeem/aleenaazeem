@@ -13,7 +13,6 @@ I'm a master's student passionate about **data science**, **machine learning**, 
   - **IoT & Robotics**: Love building systems that interact with the real world; robots are just cool!
 - **Fun fact**: My journey into ML started with robotics—seeing real-world impact through autonomous systems is what drives me.
 </br>
-</br>
 You can check my CV at: [[My CV]](https://docs.google.com/document/d/14nm20lZghlWIS3TINERuweXoCRn8zk1aP9JDT8pr35U/edit?usp=sharing)
 
 
