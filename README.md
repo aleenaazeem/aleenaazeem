@@ -1,5 +1,17 @@
-# 💫 About Me:
+# Hi, I'm Aleena Azeem 👋
 
+I'm a master's student passionate about **data science**, **machine learning**, and the practical applications of technology in the real world. My background bridges computer science, advanced robotics, and the power of data to solve real-world problems.
+
+## 👩‍💻 About Me
+
+- **Education**: Master's student with a strong foundation in computer science and robotics (took advanced robotics in undergrad)
+- **Technical Skills**: Python, SQL, R, Lua, C, JavaScript, Jenkins, Azure AI Foundry, Power BI
+- **Specialties**: Data cleaning, machine learning, computer vision, data analytics
+- **Interests**:  
+  - **Data Science**: From data wrangling to deploying models  
+  - **Machine Learning & Computer Vision**: Excited by the challenge of making sense of images and video  
+  - **IoT & Robotics**: Love building systems that interact with the real world; robots are just cool!
+- **Fun fact**: My journey into ML started with robotics—seeing real-world impact through autonomous systems is what drives me.
 Hi! I'm **Aleena Ali Azeem** , a Master’s student in **Applied Computing** at the **University of Windsor**, deeply curious about how data drives real-world decisions and embedded systems..
 
 📊 I’m passionate about **data analytics**, storytelling with dashboards, and uncovering insights from messy datasets.  
