@@ -12,12 +12,7 @@ I'm a master's student passionate about **data science**, **machine learning**, 
   - **Machine Learning & Computer Vision**: Excited by the challenge of making sense of images and video  
   - **IoT & Robotics**: Love building systems that interact with the real world; robots are just cool!
 - **Fun fact**: My journey into ML started with robotics—seeing real-world impact through autonomous systems is what drives me.
-Hi! I'm **Aleena Ali Azeem** , a Master’s student in **Applied Computing** at the **University of Windsor**, deeply curious about how data drives real-world decisions and embedded systems..
 
-📊 I’m passionate about **data analytics**, storytelling with dashboards, and uncovering insights from messy datasets.  
-🚀 I love learning, experimenting, and building projects that make things simpler or smarter.  
-🌱 Currently growing my skills in Python, SQL, Power BI, and cloud tools to become a well-rounded data professional.  
-💬 Always open to learning from others, collaborating, and exploring new ideas. IOT is my favourite thing ever.
 </br>
 You can check my CV at: [[My CV]](https://docs.google.com/document/d/14nm20lZghlWIS3TINERuweXoCRn8zk1aP9JDT8pr35U/edit?usp=sharing)
 
