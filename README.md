@@ -5,7 +5,7 @@ I'm a master's student passionate about **data science**, **machine learning**, 
 ## 👩‍💻 About Me
 
 - **Education**: Master's student with a strong foundation in computer science and robotics (took advanced robotics in undergrad)
-- **Technical Skills**: Python, SQL, R, Lua, C, JavaScript, Jenkins, Azure AI Foundry, Power BI
+- **Technical Skills**: Python, SQL, R, Lua, C, JavaScript, Jenkins, Azure AI Foundry, Power BI.
 - **Specialties**: Data cleaning, machine learning, computer vision, data analytics
 - **Interests**:  
   - **Data Science**: From data wrangling to deploying models  
