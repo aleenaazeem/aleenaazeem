@@ -1,4 +1,4 @@
-# Hi, I'm Aleena Azeem 👋 
+# Hi, I'm Aleena Azeem 👋 .
 
 I'm a master's student passionate about **data science**, **machine learning**, and the practical applications of technology in the real world. My background bridges computer science, advanced robotics, and the power of data to solve real-world problems.
 
